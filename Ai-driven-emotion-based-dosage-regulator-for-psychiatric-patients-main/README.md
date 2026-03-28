@@ -502,13 +502,13 @@ This project is proprietary and confidential.
 ---
 
 ## Author
-Lakshmanan  
-GitHub: https://github.com/Lakshmanan0310  
+Kishore Kumar KR  
+GitHub: https://github.com/KishoreKumar2204  
 
 ## Support & Contact
 For issues and questions:
 - Create an issue on GitHub
-- Contact: lakshmanan.e1652@gmail.com
+- Contact: kishorekumarkarupson@gmail.com
 
 Last Updated: January 30, 2026  
 Version: 1.0.0
