@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Node
+node_modules/
+
+# Environment variables
+.env
+
+# ML Models
+*.pt
+*.pth
+*.h5
+*.onnx
+
+# OS files
+.DS_Store
+Thumbs.db
